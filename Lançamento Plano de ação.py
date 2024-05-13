@@ -10,7 +10,7 @@ from pathlib import Path
 
 planilha = pathlib.PureWindowsPath()
 planilha_nome = ""
-planilha_caminho = "Z:/Obras/2024/Planejamento de Obras/Revisão de Lançamentos/LAB/Bot Python/"
+planilha_caminho = "" #Pasta do bot
 
 def registrar(p, l):
   if p:
